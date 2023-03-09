@@ -10,3 +10,7 @@ h1{
 .paragrafo2{
   color: #0018ff;
 }
+
+p{
+  font-style: italic;
+}
